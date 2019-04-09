@@ -19,5 +19,4 @@
 
 
 <uses-permission android:name="android.permission.RECORD_AUDIO"></uses-permission>
-<uses-sdk android:targetSdkVersion="14"/>
-</manifest> 
+</manifest>
